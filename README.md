@@ -23,3 +23,7 @@ For filter from downloaded tweets:
     output_dir: path to output directory.
     sample1000: sample of 1000 tweets without lang identification. True or False.
     language_lookup: custom language identification by terms lookup. True or False.
+    
+### Language detection
+
+We used this [GitHub Repository](https://github.com/mmaguero/lang_detection) for language identification.
